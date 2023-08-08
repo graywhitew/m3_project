@@ -2,3 +2,4 @@
 /m3_project.egg-info
 /app/__pycache__
 /m3_project/__pycache__
+/migrations/__pycache__
